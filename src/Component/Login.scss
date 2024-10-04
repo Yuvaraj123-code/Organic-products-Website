@@ -1,0 +1,49 @@
+// body{
+//     background-image: url(./R.jpg);
+// }
+.Loginform{
+    z-index: 2;
+}
+.background{
+    height: 100%;
+    width: 100%;
+    float: left;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: none;
+    position: fixed;
+    object-fit: cover;
+    z-index: -1;
+    
+}
+.Loginform{
+    background-color: rgba(255, 166, 0, 0.737);
+    height: 300px;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 400px;
+    border-radius: 15px;
+  }
+  .Loginform-link{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .one{
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  border: none;
+  margin-left: 10px;
+  }
+  button{
+    width: 300px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    
+  }
+  .forgetpassword{
+    margin-left: 250px;
+  }

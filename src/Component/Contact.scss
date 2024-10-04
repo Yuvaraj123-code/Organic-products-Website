@@ -1,0 +1,96 @@
+.imagelogo{
+    height: 100%;
+    width: 100%;
+    float: left;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: none;
+    position: fixed;
+    object-fit: cover;
+    z-index: -1;
+}
+.contactcon{
+   width: 300px;
+   margin-left: 400px;
+
+}
+
+.contact{
+    height: 40px;
+background-color: rgb(255, 255, 255);
+    margin-top: 23px;
+    width: 500px;
+    border: none;
+    border-radius: 10px;
+    text-align:left;
+    font-weight: bold;
+    padding-left: 10px;
+    
+}
+// .imagelogo{
+//     left: 0;
+//     right: 0;
+//     top: 0;
+//     bottom: 0;
+//     z-index: -1;
+
+// }
+.contactbutton{
+    background-color: rgba(255, 166, 0, 0.872);
+    margin-left: 90px;
+    margin-top: 10px;
+}
+#paragraph{
+    margin-top: 80px;
+    background-color: rgba(0, 0, 0, 0.639);
+    color: aliceblue;
+    width: 205vh;
+    position: relative;
+    right: 69vh;
+    top: 17vh;
+    margin: 0;
+    // margin-right: 500px;
+    align-items: center;
+    text-align: center;
+}
+#inputone{
+    margin-left: 30PX;
+}
+#inputthree{
+    margin-right: 5PX;
+}
+#inputfour{
+    margin-left: 7PX;
+}
+#inputfive{
+    margin-left: 60PX;
+ 
+}
+#inputsix{
+    margin-left: 38PX;
+}
+#inputseven{
+    margin-right: 15PX;
+}
+label{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagelogo{
+    height: 100%;
+    width: 100%;
+    float: left;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: none;
+    position: fixed;
+    object-fit: cover;
+    z-index: -1;
+}

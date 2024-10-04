@@ -1,0 +1,63 @@
+.navcart{
+    height: 5vh;
+    width: 5vh;
+    margin-left: 70px;
+    margin-top: 3vh;
+  }
+//   .navbarmain{
+//     background-image: url(./download-removebg-preview\ \(1\).png)
+//   }
+//   #navlogo{
+//     background-image: url(./download-removebg-preview\ \(1\).png);
+//   }
+  .mynavlinks Link{
+    text-decoration: none;
+    list-style: none;
+  }
+  .mynavbar1{
+    display:flex;
+    background-color: rgba(255, 166, 0, 0.724);
+    text-decoration: none;
+    border-radius: 10px;
+    /* position: absolute; */
+    
+  
+  
+    
+  } 
+  a{
+    text-decoration: none;
+  }
+  /* .logo{
+    position: relative;
+  
+  } */
+  .mynavlinks{
+    display: flex;
+    text-decoration: none;
+    
+    
+  }
+  .mynavlinks li{
+    height: 30px;
+    margin-left: 120px;
+    width: 19vh;
+    
+   display: flex;
+    text-decoration:none;
+    position: relative;
+    font-family: sans-serif;
+    color: aliceblue;
+   background: none;
+   font-size: 1.3rem;
+    
+  
+    
+  }
+  .mynavlinks li{
+    text-decoration: none;
+    list-style: none;
+  }
+  /* .mynavlinks li.two{
+    color: aliceblue;
+  } */
